@@ -11,3 +11,5 @@ a simple project where , we can use for home automation and can save electricity
 # working principle 
 
 its generally detects the motion , with in the range 3cm - 3meters , and we can configure the sensor whether we to get output when it detects the motion or need the output when the motion stops , since the output we get will be digital , the program wont take much space 
+
+### in order to work , connect LED PIN To GPIO 17 , And connect pir sensor to GPIO 26
